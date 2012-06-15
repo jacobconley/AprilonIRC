@@ -1,0 +1,12 @@
+name: Aprilon
+version: 0.4
+description: IRC bridge bot for Minecraft.
+main: me.adpuckey.plugins.aprilonirc.AprilonIrc
+commands:
+  ircbot:
+    description: Basic commands for managing the IRC bot.
+    usage: Use /ircbot help for a list of commands.
+  irc:
+    description: Irc commands for players.
+    usage:  Use /irc help for a list of commands.
+    
